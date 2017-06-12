@@ -2,7 +2,7 @@
 
 This simple repo shows how to create an attracive and responsive Drop-down navidation bar using plain HTML5 and CSS3
 
-![ScreenShot](https://raw.github.com/Patwan/Log-In-Form-Vakidation-Using-Javascript
+![ScreenShot](https://raw.github.com/Patwan/Responsive-Dropdown-Navigation-Bar
 /master/screenshot.png)
 
 
